@@ -5,11 +5,6 @@ PORTAFOLIO PERSONAL - JUAN DIEGO CONTRERAS
 2. Abre index.html con Live Server.
 3. Si VS Code muestra "Restricted Mode", selecciona "Trust this folder".
 
-FOTO:
-Coloca tu foto en img/mi-foto.jpg
-
-VIDEO:
-Coloca tu video en video/mi-video.mp4
 
 INFORMACIÓN INCLUIDA:
 - Juan Diego Contreras
